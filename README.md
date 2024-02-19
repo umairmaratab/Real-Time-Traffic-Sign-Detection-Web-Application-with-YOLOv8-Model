@@ -9,6 +9,9 @@ This project implements a real-time traffic sign detection system using the `YOL
 * Flask (Backend)
 * Waitress
 
+## Dataset
+Dataset is taken from roboflow and it available here: https://universe.roboflow.com/roboflow-100/road-signs-6ih4y
+
 ## Training:
 The model inference is performed on images captured through the web interface, providing instant feedback to users about the detected signs.
 
