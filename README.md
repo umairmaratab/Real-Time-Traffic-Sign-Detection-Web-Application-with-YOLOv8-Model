@@ -1,5 +1,5 @@
 # Real-Time Traffic Sign Detection Web Application
-
+![Screenshot of a model which detected traffic lights](https://github.com/umairmaratab/Real-Time-Traffic-Sign-Detection-Web-Application-with-YOLOv8-Model/blob/main/traffic_lights.png)
 ## Goal
 This project implements a real-time traffic sign detection system using the `YOLOv8` model trained on a custom dataset of `traffic signs`. 
 
